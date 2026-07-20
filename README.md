@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Leo%20%C2%B7%20LeoLee0812&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Enjoy%20learning%20new%20things%20and%20exploring%20the%20world&descSize=18&descAlignY=72" width="100%" />
 
 <a href="https://github.com/LeoLee0812">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%C2%B7+%E5%B5%8C%E5%85%A5%E5%BC%8F+%C2%B7+iOS;%E4%BB%8E+STM32+%E5%88%B0+Next.js%EF%BC%8C%E4%BB%80%E4%B9%88%E9%83%BD%E6%83%B3%E9%80%A0%E4%B8%80%E9%81%8D;Build+with+AI%2C+Ship+every+week+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=%E5%86%B7%E9%9D%99%E5%9C%B0%E6%80%9D%E8%80%83%EF%BC%8C%E7%83%AD%E6%83%85%E5%9C%B0%E7%94%9F%E6%B4%BB%E3%80%82;Think%20calmly%2C%20live%20passionately." alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,9 +11,6 @@
 ## 👋 关于我
 
 - 🎓 热爱学习新事物、探索世界的开发者
-- 🛠️ 技术栈横跨三端：**嵌入式**（STM32 / ESP8266）→ **全栈 Web**（Next.js / Supabase / Vercel）→ **原生应用**（SwiftUI / Go）
-- 🤖 重度 AI 工程化玩家：用 Claude Code 驱动开发流水线，从写码、部署到内容广播全自动化
-- 🌱 最近在折腾：语音转文字工具链、脑科学知识库、自媒体内容工作台
 
 ## 🛠️ 技术栈
 
@@ -84,14 +81,6 @@
 <img src="https://streak-stats.demolab.com/?user=LeoLee0812&theme=tokyonight&hide_border=true&locale=zh_Hans" height="180" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=LeoLee0812&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="90%" />
-
-</div>
-
-## 📈 贡献活动
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoLee0812&theme=tokyo-night&hide_border=true&area=true&locale=zh" width="95%" />
 
 </div>
 
