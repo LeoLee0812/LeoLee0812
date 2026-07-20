@@ -35,31 +35,6 @@
 
 ## 🚀 精选项目
 
-<div align="center">
-
-<a href="https://github.com/LeoLee0812/CodeWhisper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoLee0812&repo=CodeWhisper&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/LeoLee0812/chess-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoLee0812&repo=chess-ai&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/LeoLee0812/IOTSmartPot-STM32">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoLee0812&repo=IOTSmartPot-STM32&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/LeoLee0812/MacWink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoLee0812&repo=MacWink&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/LeoLee0812/TextGrab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoLee0812&repo=TextGrab&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/LeoLee0812/jdhunter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoLee0812&repo=jdhunter&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | 项目 | 简介 | 技术 |
 | --- | --- | --- |
 | [CodeWhisper](https://github.com/LeoLee0812/CodeWhisper) | 本地 Whisper 语音转文字，一键转录进剪贴板，中文优化，和各家大模型无缝语音对话 | Python · Whisper |
