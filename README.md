@@ -33,19 +33,6 @@
 
 </div>
 
-## 🚀 精选项目
-
-| 项目 | 简介 | 技术 |
-| --- | --- | --- |
-| [CodeWhisper](https://github.com/LeoLee0812/CodeWhisper) | 本地 Whisper 语音转文字，一键转录进剪贴板，中文优化，和各家大模型无缝语音对话 | Python · Whisper |
-| [chess-ai](https://github.com/LeoLee0812/chess-ai) | 纯 JS 手写国际象棋引擎：0x88 棋盘、alpha-beta、置换表，perft 全过 · [在线对弈](https://chess-ai-nine.vercel.app) | JavaScript |
-| [IOTSmartPot-STM32](https://github.com/LeoLee0812/IOTSmartPot-STM32) | STM32 智能花盆：温湿度光照监测、ESP8266 上云、土壤湿度自动补水 | C · STM32 |
-| [MacWink](https://github.com/LeoLee0812/MacWink) | P2P 跨设备剪贴板同步，无需公网服务器 | Go |
-| [TextGrab](https://github.com/LeoLee0812/TextGrab) | macOS 菜单栏截图 OCR，Vision 框架原生识别 | Go · Vision |
-| [opc-toolbox-navigator](https://github.com/LeoLee0812/opc-toolbox-navigator) | 出海工具箱 & API 灵感库：220+ 条工具，讲清定价、坑与出海适配 | Next.js · Supabase |
-| [jdhunter](https://github.com/LeoLee0812/jdhunter) | 粘贴岗位 JD，反向匹配最吻合的开源项目并生成简历写法包 | Python |
-| [github-flow-skill](https://github.com/LeoLee0812/github-flow-skill) | Claude Code 技能：一条命令走完 分支→Issue→PR→自审→合并 | Claude Code |
-
 ## 📊 GitHub 数据
 
 <div align="center">
